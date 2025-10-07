@@ -1,0 +1,8 @@
+{
+  "name": "Star Friends Club",
+  "description": "A web application that mimics the user interface of an Instagram-style messenger, featuring group chats, voice calls, and video calls with friends.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
